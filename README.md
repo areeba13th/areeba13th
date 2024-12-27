@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @areeba13th
 - 👀 I’m interested in graphic designing
 - 🌱 I’m currently learning from gcuf (BSCS)
+- skills: website creation,database creation,graphic designing...
 - 📫 You reach me areeba.s1122@gmai.com
 - ⚡ Fun fact: creative,innovative,visionary
